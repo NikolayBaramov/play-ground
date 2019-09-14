@@ -8,7 +8,7 @@ public class HelloWorld {
         String result = String.format("My name is %s and I am %d years old.", simpleTry.getName(), simpleTry.getAge());
 
         System.out.println(result);
-        System.out.println("Well done");
+        System.out.println("Well done!");
 
     }
 
