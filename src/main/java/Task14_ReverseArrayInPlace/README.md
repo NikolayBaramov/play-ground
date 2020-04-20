@@ -1,0 +1,1 @@
+It's relatively easy to reverse an array if you have the luxury to use another array, but how would you reverse an array if a temporary buffer is not allowed?

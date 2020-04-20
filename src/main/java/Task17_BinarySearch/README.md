@@ -1,0 +1,1 @@
+We will write a Java program which will take input from the user, both array and the number to be searched and then perform a binary search to find that number in a given array.
