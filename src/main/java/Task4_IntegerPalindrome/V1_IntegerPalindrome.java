@@ -8,6 +8,8 @@ public class V1_IntegerPalindrome {
         System.out.println("Please enter your NUMBER:");
         int number = Integer.parseInt(drucker.nextLine());
 
+        // some change
+
         if (number < 10 && number > -10) {
             System.out.println(false);
         } else {
